@@ -165,7 +165,7 @@ The sandbox credentials above are published practice values, not secrets. The ve
    git push -u origin main
    ```
    The repository already contains an initial commit, a `.gitignore` (no `node_modules`, `dist` or `.env`) and the `package-lock.json`; there are no secrets to remove.
-2. Invite your dad as a collaborator (or make the repo public), and send him:
+2. Invite your colleague as a collaborator (or make the repo public), and send :
    ```bash
    git clone <repository-url>
    cd parloa-integration-trainer
